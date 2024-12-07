@@ -1,2 +1,3 @@
 # AngularRoute
-angular routes ex
+angular routes example
+using angular.min.js direct html
